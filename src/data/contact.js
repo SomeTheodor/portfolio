@@ -1,6 +1,5 @@
 import email from "../assets/contact/email.png";
 import linkedin from "../assets/contact/linkedin.png";
-import twitter from "../assets/contact/twitter.png";
 import github from "../assets/github.png";
 
 const contacts = [
@@ -18,11 +17,6 @@ const contacts = [
     label: "Github",
     icon: github,
     link: "https://github.com/sometheodor",
-  },
-  {
-    label: "@xprofile",
-    icon: twitter,
-    link: "https://x.com",
   },
 ];
 

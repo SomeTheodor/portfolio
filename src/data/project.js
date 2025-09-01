@@ -2,33 +2,20 @@ import project from "../assets/projects/project.svg";
 
 const projects = [
   {
-    name: "Lorem Ipsum",
+    name: "Control Stock",
     img: project,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
+      "A stock management system that allows users to deposit and sell products while keeping track of all related transactions. The system provides a clear overview of each product’s current stock levels and a detailed history of deposits, sales, and other movements, enabling efficient inventory control and accurate record-keeping.",
+    link: "https://github.com/SomeTheodor/control_stock",
   },
   {
-    name: "Lorem Ipsum",
+    name: "SkillTest",
     img: project,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
+      "Is a vocational test platform where students can take a quick assessment to discover their ideal career path. In addition, it allows them to practice topics related to their chosen fields, helping them explore and strengthen their skills in a practical and interactive way.",
+    link: "https://github.com/SomeTheodor/SkillTest",
   },
-  {
-    name: "Lorem Ipsum",
-    img: project,
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
-  },
-  {
-    name: "Lorem Ipsum",
-    img: project,
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    link: "https://github.com",
-  },
+
 ];
 
 export { projects };
